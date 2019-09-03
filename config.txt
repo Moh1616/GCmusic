@@ -1,0 +1,6 @@
+owner=449009881341624321
+prefix=MP
+game=Gaming community
+stayinchannel=true
+songinstatus=false
+token=NjE4NDg0ODIyNjUzNzk2Mzcx.XW6ZOQ.JOaBDJbiaphB-xIQ5i9H8nyhtuU
